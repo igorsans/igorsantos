@@ -1,4 +1,4 @@
-import projectsList from "../../Context/Lang/texts.json"
+import projectsList from "../../Projects/Projects.json"
 import "./Projects.css"
 import { MouseAnimationsContext } from "../../Context/MouseAnimations/MouseAnimationsProvider.jsx"
 import { useContext } from "react"
@@ -49,9 +49,9 @@ export const Projects = () => {
                             </div>
 
                             <div className="skills">
-                                {i.tags ? i.tags.map((i) => {
+                                {i.tags ? i.tags.map((i, index) => {
                                     return (
-                                        <div onMouseEnter={mouseAnimations.cursorSkill} onMouseLeave={mouseAnimations.cursorLeave} className="skillsCard">{i}</div>
+                                        <div key={index + 10} onMouseEnter={mouseAnimations.cursorSkill} onMouseLeave={mouseAnimations.cursorLeave} className="skillsCard">{i}</div>
 
                                     )
                                 }) : ""}

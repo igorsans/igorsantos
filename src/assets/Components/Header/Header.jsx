@@ -23,7 +23,7 @@ export const Header = () => {
                 }}
                 onMouseLeave={MouseAnimations.cursorLeave}
                 className="headerBtn">
-                <img className="headerSvg" src="./globe.svg" alt="Mudar Linguagem / Change language" />
+                <img className="headerSvg" src="/globe.svg" alt="Mudar Linguagem / Change language" />
             </button>
         </header >
     )
