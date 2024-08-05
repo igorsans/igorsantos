@@ -55,7 +55,7 @@ export const Home = () => {
             onMouseEnter={MouseAnimations.cursorText} onMouseLeave={MouseAnimations.cursorLeave} className="subtitleName" >{langContext.texts.home.nameDisplay.stack[langContext.lang]}</h2>
         </span>
         <div className="aboutMe">
-          <h3>{langContext.texts.home.aboutMeJorney.tittle[langContext.lang]}</h3>
+          <h3 className="aboutMeTittle" >{langContext.texts.home.aboutMeJorney.tittle[langContext.lang]}</h3>
           {langContext.texts.home.aboutMeJorney.text[langContext.lang].map((item, index) => {
             return (
               <p key={index + 500}>{item}</p>

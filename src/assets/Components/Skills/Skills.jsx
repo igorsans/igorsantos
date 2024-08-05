@@ -12,7 +12,7 @@ export const Skills = () => {
 
     return (
         <div className="skillsDiv">
-            <h3>Skills</h3>
+            <h3 className="skillsTittle">Skills</h3>
             <div className="skills">
                 {skillsIHave.map((i) => <span key={i} onMouseEnter={MouseAnimations.cursorSkill} onMouseLeave={MouseAnimations.cursorLeave} className="skillsCard">{i}</span>)}
             </div>

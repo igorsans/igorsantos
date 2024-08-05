@@ -11,13 +11,21 @@
     align-items: center;
     border-radius: 50%;
 }
-
+.pageProjectsTittle{
+    font-size: var(--fst);
+    font-family: var(--titulo);
+}
+.cardProjectsTittle{
+    font-size: var(--fssb);
+    font-family: var(--titulo);
+}
 .projects {
-    width: 80%;
+    width: 100%;
     margin: 20px auto;
 }
 
 .projectsCardContainer {
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,7 +44,8 @@
 }
 
 .projectsImg {
-    width: 100%;
+    max-width: 100%;
+    width: auto;
 }
 
 .projectsP {

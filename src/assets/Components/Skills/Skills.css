@@ -5,6 +5,10 @@
     height: auto;
     margin-top: 35px;
 }
+.skillsTittle{
+    font-size: var(--fssb);
+    font-family: var(--titulo);
+}
 .skills{
     padding-top: 20px;
     width: 50%;

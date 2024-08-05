@@ -59,3 +59,7 @@
     font-size: large;
     font-family: var(--texto);
 }
+.aboutMeTittle{
+    font-size: var(--fssb);
+    font-family: var(--titulo);
+}

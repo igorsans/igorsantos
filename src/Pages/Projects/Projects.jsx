@@ -1,10 +1,10 @@
 import projectsList from "../../Projects/Projects.json"
-import "./Projects.css"
 import { MouseAnimationsContext } from "../../Context/MouseAnimations/MouseAnimationsProvider.jsx"
 import { useContext } from "react"
 import { useNavigate } from "react-router-dom"
 import { LangContext } from "../../Context/Lang/LangProvider.jsx"
 import "../../assets/Components/Skills/Skills.css"
+import "./Projects.css"
 
 export const Projects = () => {
 
@@ -30,11 +30,11 @@ export const Projects = () => {
                 }}
                 className="back" />
             <div className="projects">
-                <h2>Projetos</h2>
+                <h2 className="pageProjectsTittle">Projetos</h2>
                 {projectsListOrder.map((i) => {
                     return (
                         <div key={i.id + 100} className="projectsCardContainer">
-                            <h4>{i.tittle}</h4>
+                            <h4 className="cardProjectsTittle">{i.tittle}</h4>
                             <div className="projectsCard" >
                                 <a className="linkCard" onMouseEnter={() => {
                                     mouseAnimations.setCursorInsideText("Github")

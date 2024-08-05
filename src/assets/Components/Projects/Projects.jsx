@@ -16,7 +16,7 @@ const Projects = () => {
     })
     return (
         <div className="projectsContainer">
-            <h3>{langContext.texts.home.personalProjects.tittle[langContext.lang]}</h3>
+            <h3 className='projectsTittleHome'>{langContext.texts.home.personalProjects.tittle[langContext.lang]}</h3>
             <p>{langContext.texts.home.personalProjects.intro[langContext.lang]}</p>
             <div className="projects">
                 {projectsListOrder.map((item, index) =>
