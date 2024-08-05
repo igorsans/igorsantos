@@ -1,0 +1,241 @@
+[
+    {
+        "id": 0,
+        "tittle": "Detona!",
+        "about": {
+            "PT": "Projeto de um jogo de escolhas baseado no filme Detona Ralph, neste jogo você pode escolher entre três personagens, onde cada personagem participará de uma forma diferente em sua jornada do Heroi, como inicio dos meus estudos esse projeto me ajudou a entender como realizar troca de paginas armazenamento de dados de usuarios em navegadores e muito CSS.",
+            "EN": "Project for a choice game based on the film Wreck-It Ralph, in this game you can choose between three characters, where each character will participate in a different way in their Hero's journey, as the beginning of my studies this project helped me understand how to exchange characters user data storage pages in browsers and a lot of CSS."
+        },
+        "imgDisplay": "/projects/Detona.png",
+        "imgAlt": {
+            "PT": "",
+            "EN": ""
+        },
+        "tags": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "DOM"
+        ],
+        "github": "https://github.com/igorsans/Detona"
+    },
+    {
+        "id": 1,
+        "tittle": "[De]Codificar",
+        "about": {
+            "PT": "Aprendendo sobre criptografia criei esse codificador e decodificador em cifra de cesar e base64, você pode testar o site clicando ",
+            "EN": "Learning about cryptography I created this encoder and decoder in Caesar cipher and base64, you can test the site by clicking ",
+            "link": "https://igorsans.github.io/Decodificador-de-Mensagens/"
+        },
+        "imgDisplay": "/projects/Decodificador.png",
+        "imgAlt": {
+            "PT": "imagem do site",
+            "EN": "website image"
+        },
+        "tags": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "DOM"
+        ],
+        "github": "https://github.com/igorsans/Decodificador-de-Mensagens"
+    },
+    {
+        "id": 2,
+        "tittle": "To the Moon",
+        "about": {
+            "PT": "Construindo um site e consumindo uma API pública da nasa, Neste site você pode viajar no tempo e espaço, Veja por você mesmo ",
+            "EN": "Building a website and consuming a public NASA API, On this website you can travel through time and space, See for yourself ",
+            "link": "https://igorsans.github.io/toTheMoon/"
+        },
+        "imgDisplay": "/projects/Apod.png",
+        "imgAlt": {
+            "PT": "imagem do site",
+            "EN": "website image"
+        },
+        "tags": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "DOM",
+            "API",
+            "JQuery"
+        ],
+        "github": "https://github.com/igorsans/toTheMoon"
+    },
+    {
+        "id": 3,
+        "tittle": "DevUP",
+        "about": {
+            "PT": "Primeiro projeto em grupo, o site conta com uma área de cadastro e login, meu papel nessa squad foi certificar que todas as funcionalidades fossem desenvolvidas conforme previsto, seguindo os padrões MVC e SRP, você pode checar o projeto ",
+            "EN": "First group project, the website has a registration and login area, my role in this squad was to make sure that all functionalities were developed as planned, following MVC and SRP standards, you can check the project ",
+            "link": "https://igorsans.github.io/DevUP/"
+        },
+        "imgDisplay": "https://user-images.githubusercontent.com/101408372/170374048-2bbf73fc-9b0c-4e79-a255-71bcd17453a9.gif",
+        "imgAlt": {
+            "PT": "Gif demonstrando as paginas do site.",
+            "EN": "Gif demonstrating the website pages"
+        },
+        "tags": [
+            "HTML",
+            "BootStrap",
+            "JavaScript",
+            "MVC",
+            "POO",
+            "SRP",
+            "JQuery",
+            "API",
+            "GIT"
+        ],
+        "github": "https://github.com/igorsans/DevUP"
+    },
+    {
+        "id": 4,
+        "tittle": "EagleEye Data",
+        "about": {
+            "PT": "Aprendendo sobre banco de dados, querys e analise de dados, o projeto foi desenvolvido com o intuito de aprendizagem e analise de um banco de dados. Você pode ver mais informações clicando na imagem ao lado.",
+            "EN": "Learning about databases, queries and data analysis, the project was developed with the aim of learning and analyzing a database. You can see more information by clicking on the image below.",
+            "link": ""
+        },
+        "imgDisplay": "https://raw.githubusercontent.com/igorsans/EagleEye-Data/main/Media/logogithub.png",
+        "imgAlt": {
+            "PT": "",
+            "EN": ""
+        },
+        "tags": [
+            "Data Base" , "MySQL", "Query"
+        ],
+        "github": "https://github.com/igorsans/EagleEye-Data"
+    },
+    {
+        "id": 5,
+        "tittle": "Oil Blood",
+        "about": {
+            "PT": "Através deste projeto, pude aprender sobre o conceito de objetos e como podem interagir entre si. Desenvolvi este projeto como um hobby para tentar compreender melhor a programação de jogos. Inicialmente foi um desafio, mas consegui entender os conceitos, e você pode testar clicando ",
+            "EN": "hrough this project, I was able to learn about the concept of objects and how they can interact with each other. I developed this project as a hobby to try to better understand game programming. Initially, it was a challenge, but I managed to grasp the concepts, and you can test it by clicking ",
+            "link": "https://igorsans.github.io/Oil-Blood/"
+        },
+        "imgDisplay": "https://raw.githubusercontent.com/igorsans/Oil-Blood/main/img/share/pers2.png",
+        "imgAlt": {
+            "PT": "Segundo personagem do jogo Oil Blood desenvolvido por mim.",
+            "EN": "Second character in the Oil Blood game developed by me."
+        },
+        "tags": [
+            "HTML Canvas" , "POO" , "JavaScript"
+        ],
+        "github": "https://github.com/igorsans/Oil-Blood"
+    },
+    {
+        "id": 6,
+        "tittle": "Tips for devs",
+        "about": {
+            "PT": "Aplicando alguns conceitos de rotas e testando bibliotecas que facilitam o desenvolvimento back-end.",
+            "EN": "Applying some route concepts and testing libraries that facilitate back-end development.",
+            "link": ""
+        },
+        "imgDisplay": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+        "imgAlt": {
+            "PT": "Express Logo",
+            "EN": "Express Logo"
+        },
+        "tags": [
+            "Express", "BackEnd"
+        ],
+        "github": "https://github.com/igorsans/Tips4Devs"
+    },
+    {
+        "id": 7,
+        "tittle": "Java Stickers Generator",
+        "about": {
+            "PT": "Aplicação Java que gera figurinhas para enviar no whatsapp, a API usada para gerar as imagens das figurinhas é a IMDB.",
+            "EN": "Java application that generates stickers to send on WhatsApp, the API used to generate the sticker images is IMDB.",
+            "link": ""
+        },
+        "imgDisplay": "https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png",
+
+        "imgAlt": {
+            "PT": "Java Logo",
+            "EN": "Java Logo"
+        },
+        "tags": [
+            "Java", "BackEnd", "API"
+        ],
+        "github": "https://github.com/igorsans/Java-Stickers"
+    },
+    {
+        "id": 8,
+        "tittle": "API REST - PUB",
+        "about": {
+            "PT": "Desenvolvi uma API para ser consumida futuramente no front-end. Na equipe, desempenhei um papel fundamental ao instruir os membros a utilizar meu conhecimento sobre objetos. Com isso, conseguimos desenvolver a API de maneira ágil, aplicando todos os requisitos necessários, incluindo testes unitários e de integração.",
+            "EN": "I developed an API for future consumption on the front-end. In this squad, I played a key role in guiding team members to leverage my knowledge of objects. This allowed us to develop the API swiftly while applying all necessary requirements, including unit and integration testing.",
+            "link": ""
+        },
+        "imgDisplay": "https://icons.veryicon.com/png/o/internet--web/internet-simple-icon/api-management.png",
+
+        "imgAlt": {
+            "PT": "API imagem",
+            "EN": "API image"
+        },
+        "tags": [
+            "NodeJs" , "Express", "SQL", "Tests", "POO", "SRP", "CORS", "TDD", "Agile methodology", "Scrum"
+        ],
+        "github": "https://github.com/igorsans/APIRest_Pub"
+    },
+    {
+        "id": 9,
+        "tittle": "Linx Impulse",
+        "about": {
+            "PT": "Consumindo API de produtos para gerar um site de vendas usando React.",
+            "EN": "Consuming a product API to generate a sales website using React.",
+            "link": ""
+        },
+        "imgDisplay": "https://raw.githubusercontent.com/igorsans/linx-impulse/dev/demo.png",
+
+        "imgAlt": {
+            "PT": "imagem do site",
+            "EN": "website image"
+        },
+        "tags": [
+            "React", "NodeJs", "API"
+        ],
+        "github": "https://github.com/igorsans/linx-impulse"
+    },
+    {
+        "id": 10,
+        "tittle": "Moko Tatto Studio",
+        "about": {
+            "PT": "O site integra-se com uma API que por sua vez se conecta a um banco de dados para armazenar informações de usuários e produtos, os quais podem interagir entre si. Além disso, o site possui uma seção de gerenciamento para o cliente, onde ele pode adicionar, remover e atualizar seus produtos ou usuários. Você pode verificar clicando ",
+            "EN": "The website integrates with an API that connects to a database to store user and product data that can interact with each other. Additionally, the website includes a management section for the client, where they can add, remove, and update their products or users. You can check it by clicking ",
+            "link": "https://moko-tatto-studio-13l67c3mf-igorsans.vercel.app"
+        },
+        "imgDisplay": "https://raw.githubusercontent.com/igorsans/Moko-Tatto-Studio/main/src/assets/Home.png",
+
+        "imgAlt": {
+            "PT": "Imagem do site",
+            "EN": "Website image"
+        },
+        "tags": [
+            "React", "API", "SRP"
+        ],
+        "github": "https://github.com/igorsans/Moko-Tatto-Studio"
+    },
+    {
+        "id": 11,
+        "tittle": "Ruscão Brands",
+        "about": {
+            "PT": "Desenvolvi este site para um excelente designer e amigo, Bruno, com o objetivo de ampliar o alcance de seu trabalho para novos clientes. Utilizei todo o meu conhecimento para criar uma experiência única, facilitando a conexão entre seu talento e seus clientes. O resultado final reflete não apenas a qualidade do design, mas também a eficiência na apresentação dos serviços oferecidos. Você pode verificar o site ",
+            "EN": "I developed this website for an excellent designer and friend, Bruno, with the goal of expanding the reach of his work to new clients. I used all my knowledge to create a unique experience, facilitating the connection between his talent and his clients. The final result reflects not only the quality of the design but also the efficiency in presenting the services offered. You can check the website ",
+            "link": "https://ruscaobrands.vercel.app"
+        },
+        "imgDisplay": "/projects/ruscaobrands.png",
+
+        "imgAlt": {
+            "PT": "Imagem do site",
+            "EN": "Website image"
+        },
+        "tags": [
+            "React"
+        ],
+        "github": "https://github.com/igorsans/ruscaobrands"
+    }
+]

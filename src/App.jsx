@@ -1,10 +1,17 @@
 import React from 'react'
+import MouseAnimationsProvider from './Context/MouseAnimations/MouseAnimationsProvider'
+import Routes from './assets/Routes/Routes'
+import LangProvider from './Context/Lang/LangProvider'
 
 function App() {
 
   return (
     <>
-      <p>Teste</p>
+      <MouseAnimationsProvider>
+        <LangProvider>
+          <Routes />
+        </LangProvider>
+      </MouseAnimationsProvider>
     </>
   )
 }

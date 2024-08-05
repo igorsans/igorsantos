@@ -1,0 +1,61 @@
+.mainContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+}
+
+.info {
+    margin: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hello {
+    padding: 50px;
+    width: 30%;
+    text-align: justify;
+}
+.hello>span{
+    font-weight: bold;
+}
+
+.selfPhoto {
+    border-radius: 50%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+}
+.selfPhoto:hover{
+    -webkit-filter: none;
+}
+
+.name {
+    color: black;
+    margin-left: 10%;
+}
+
+.titleName {
+    font-size: 120px;
+    width: fit-content;
+    display: block;
+}
+
+.subtitleName {
+    font-size: 120px;
+    width: fit-content;
+}
+.aboutMe{
+    align-self: center;
+    width: 70%;
+    margin-top: 50px;
+    padding: 40px;
+    border: 1px solid black;
+    box-shadow: 3px 3px #00000013;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: large;
+    font-family: var(--texto);
+}

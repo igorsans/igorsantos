@@ -1,0 +1,68 @@
+{
+    "home" : {
+        "intro" : {
+            "p" : {
+                "PT" :"Olá! Sou um desenvolvedor com experiência tanto em front quanto em back end, apaixonado por criar soluções digitais inovadoras. Atualmente, estou desempenhando um papel essencial na formação de profissionais de TI para o mercado de trabalho. Moldando mentes e transformando vidas através da ",
+                "EN" : "Hello! I am a developer with experience in both front and back end, passionate about creating innovative digital solutions. Currently, I am playing an essential role in training IT professionals for the job market. Shaping minds and transforming lives through "
+            },
+            "introSpan" : {
+                "PT" : "tecnologia.",
+                "EN" : "tecnology."
+            }
+        },
+        "nameDisplay" : {
+            "stack" : {
+                "PT" : "Desenvolvedor FullStack",
+                "EN" : "FullStack Developer"
+            }
+        },
+        "aboutMeJorney": {
+            "tittle" : {
+                "PT" : "Sobre minha jornada",
+                "EN" : "About my Jorney"
+            },
+            "text" : {
+                "PT" : ["Minha trajetória como desenvolvedor é impulsionada por uma paixão inabalável pela tecnologia. Desde o início, fui envolvido pela fascinação de explorar as possibilidades que cada avanço tecnológico oferecia. Ao longo do tempo, transformei essa paixão em uma jornada de aprendizado e crescimento profissional.", "Investi meu tempo e energia em estudos e aprimoramento contínuos. Cada desafio enfrentado foi uma oportunidade para expandir meu conhecimento e habilidades, tornando-me um profissional cada vez mais qualificado e confiável.", "Hoje, meu principal compromisso é proporcionar resultados excepcionais em cada projeto que assumo. Busco incessantemente desenvolver soluções inovadoras e de alta qualidade, perfeitamente adaptadas às necessidades e expectativas dos clientes. Estou constantemente atualizado com as últimas tendências e tecnologias, pronto para enfrentar qualquer desafio e contribuir para o sucesso de empreendimentos tecnológicos."],
+                "EN" : ["My journey as a developer is driven by an unwavering passion for technology. From the beginning, I was captivated by the fascination of exploring the possibilities that each technological advance offered. Over time, I transformed this passion into a journey of learning and professional growth.","I invested my time and energy in continuous studies and improvement. Each challenge faced was an opportunity to expand my knowledge and skills, becoming an increasingly qualified and reliable professional.","Today, my main commitment is to provide exceptional results in each project I take on. I constantly seek to develop innovative, high-quality solutions, perfectly adapted to the needs and expectations of clients. I am constantly up to date with the latest trends and technologies, ready to face any challenge and contribute to the success of technological ventures."]
+            }
+        },
+        "personalProjects" : {
+            "tittle":{
+                "PT": "Projetos Pessoais",
+                "EN": "Personal Projects"
+            },
+            "intro": {
+                "PT": "Ao longo do meu percurso de aprendizagem, dediquei-me à criação de diversos projetos que não só consolidaram meus conhecimentos existentes, mas também me permitiram explorar novas áreas. Esses projetos são mais do que simples exercícios; são marcos significativos no meu desenvolvimento profissional e pessoal, nos quais investi tempo e energia para aprender e crescer continuamente.",
+                "EN": "Throughout my learning journey, I dedicated myself to creating several projects that not only consolidated my existing knowledge, but also allowed me to explore new areas. These projects are more than simple exercises; they are significant milestones in my professional development and personal, in which I invest time and energy to continually learn and grow."
+            },
+            "button": {
+                "PT": "mais",
+                "EN": "more"
+            }
+        }
+    },
+    "projects" : {
+        "button" : {
+            "PT": "voltar",
+            "EN" : "back"
+        }
+    },
+    "contact" : {
+        "linkedin" : {
+            "PT": "Conecte-se comigo via LinkedIn",
+            "EN": "Connect with me on LinkedIn"
+        },
+        "github" : {
+            "PT": "Acesse o meu github",
+            "EN" : "Take a look at my Github"
+        },
+        "email" : {
+            "PT" : "Envie-me um e-mail",
+            "EN" : "Send-me a e-mail"
+        },
+        "whatsapp" : {
+            "PT" : "Converse comigo pelo Whatsapp",
+            "EN" : "Talk with me on Whatsapp"
+        }
+    }
+}

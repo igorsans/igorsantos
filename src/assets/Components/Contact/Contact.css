@@ -1,0 +1,10 @@
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-bottom: 70px;
+}
+.imgContact{
+    width: 55px;
+}
